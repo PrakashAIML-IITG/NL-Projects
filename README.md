@@ -1,1 +1,1 @@
-will be deleted
+"Deleted README.md"
